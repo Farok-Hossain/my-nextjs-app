@@ -6,6 +6,7 @@ const NavbarPage = () => {
     <div>
       <h1>This is Navbar page</h1>
       <Link to="/">Home</Link>
+      <Link to="/">Home2</Link>
     </div>
   );
 };
