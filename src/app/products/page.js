@@ -10,6 +10,7 @@ const ProductsPage = () => {
       <li>List-3:</li>
       <li>List-4:</li>
       <li>List-5:</li>
+      <li>List-6:</li>
     </div>
   );
 };
