@@ -11,6 +11,7 @@ const ProductsPage = () => {
       <li>List-4:</li>
       <li>List-5:</li>
       <li>List-6:</li>
+      <li>List-7:</li>
     </div>
   );
 };
