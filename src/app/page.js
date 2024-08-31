@@ -8,8 +8,13 @@ const page = () => {
       <Link href="https://www.youtube.com/" target="_blank">
         <button className=" btn btn-secondary">Click here</button>
       </Link>
+      <br />
       <Link href="https://github.com/Farok-Hossain" target="_blank">
         <button className=" btn btn-secondary">Click Now</button>
+      </Link>
+      <br />
+      <Link href="https://www.instagram.com/" target="_blank">
+        <button className=" btn btn-secondary">Go To Instagram</button>
       </Link>
     </div>
   );
