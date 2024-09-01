@@ -3,22 +3,18 @@ import React from "react";
 
 const page = () => {
   return (
-    <div>
-      <h1 className=" text-5xl text-pink-500">This is homes page</h1>
-      <Link href="https://www.youtube.com/" target="_blank">
-        <button className=" btn btn-secondary">Click here</button>
-      </Link>
-      <br />
+    <div className="flex justify-center gap-10 text-pink-600">
       <Link href="https://github.com/Farok-Hossain" target="_blank">
-        <button className=" btn btn-secondary">Click Now</button>
+        <button className=" btn btn-secondary">Github</button>
       </Link>
-      <br />
+      <Link href="https://x.com/farok_afs" target="_blank">
+        <button className=" btn btn-secondary">X</button>
+      </Link>
       <Link href="https://www.instagram.com/" target="_blank">
-        <button className=" btn btn-secondary">Go To Instagram</button>
+        <button className=" btn btn-secondary">Instagram</button>
       </Link>
-      <br />
       <Link href="https://farok-hossain-portfolio.vercel.app/" target="_blank">
-        <button className=" btn btn-secondary">Go To my portfolio</button>
+        <button className=" btn btn-secondary">Portfolio</button>
       </Link>
     </div>
   );
