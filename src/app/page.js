@@ -3,7 +3,7 @@ import React from "react";
 
 const page = () => {
   return (
-    <div className="flex justify-center gap-10 text-pink-600">
+    <div className="flex justify-center gap-10 text-pink-600 bg-green-300 h-10">
       <Link href="https://github.com/Farok-Hossain" target="_blank">
         <button className=" btn btn-secondary">Github</button>
       </Link>
