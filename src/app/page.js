@@ -16,6 +16,7 @@ const page = () => {
       <Link href="https://www.instagram.com/" target="_blank">
         <button className=" btn btn-secondary">Go To Instagram</button>
       </Link>
+      <br />
       <Link href="https://farok-hossain-portfolio.vercel.app/" target="_blank">
         <button className=" btn btn-secondary">Go To my portfolio</button>
       </Link>
